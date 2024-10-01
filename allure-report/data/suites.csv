@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","20890","test","firefox","Tue Oct 01 01:55:27 IST 2024","passed","Tue Oct 01 01:55:48 IST 2024","","login.spec.js","",""
+"","24008","test","webkit","Tue Oct 01 01:55:27 IST 2024","passed","Tue Oct 01 01:55:51 IST 2024","","login.spec.js","",""
+"","22856","test","chromium","Tue Oct 01 01:55:27 IST 2024","passed","Tue Oct 01 01:55:50 IST 2024","","login.spec.js","",""
